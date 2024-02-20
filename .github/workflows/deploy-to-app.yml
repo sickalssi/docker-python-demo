@@ -5,10 +5,10 @@ on:
     branches: [ "main" ]
 
 env:            
-  AWS_REGION: ap-southeast-1           
-  ECR_REPOSITORY: jody-terraform-ecr       
+  AWS_REGION: ap-northeast-1           
+  ECR_REPOSITORY: jody-tf-ecr       
   ECS_SERVICE: jodyecsdemo         
-  ECS_CLUSTER: jody-terraform-ecs                    
+  ECS_CLUSTER: jody-tf-ecs                    
   CONTAINER_NAME: ecs-sample
   TASKDEF: jodyecsdemo
                                                
