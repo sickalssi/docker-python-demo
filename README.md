@@ -2,9 +2,7 @@
 
 ## Introduction
 
-This repo is building a Flask app to be pushed into Docker
+21-10-2023
+We're building a Python app to be pushed into Docker
 
-changed this part hehe
-
-Added something new here!
 
